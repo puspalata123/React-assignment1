@@ -7,6 +7,7 @@ import reportWebVitals from './reportWebVitals';
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    <p>I am learning React. My life is getting better.</p>
   </React.StrictMode>,
   document.getElementById('root')
 );
